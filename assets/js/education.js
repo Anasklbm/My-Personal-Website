@@ -232,4 +232,4 @@ const showCards2 = () => {
   );
   timeline.innerHTML = output;
 };
-document.addEventListener("DOMContentLoaded", showCards2);
+document.addEventListener("DOMContentLoaded", showCards2); 
