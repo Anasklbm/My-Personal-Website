@@ -7,11 +7,11 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   
   {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp:"<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    title: "Mern Stack Developer Intern",
+    cardImage: "assets/images/experience-page/intern.jpg",
+    place: "SoftZane Solutions, Ayoor",
+    time: "(june-2023)",
+    desp:"<li>MERN (MongoDB, Express, React, NodeJS) stack developers are well-versed in all facets of JavaScript and back-end development frameworks like NodeJS, MongoDB, and Express, as well as front-end frameworks like ReactJS.</li><li>MERN stack scalability is higher than that of a full-stack. Another significant difference between the two is Full stack development Framework is for large-scale apps and projects. </li>",
   },
 ];
 
